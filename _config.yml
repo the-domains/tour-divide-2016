@@ -1,4 +1,20 @@
-analytics: {}
+name: 'Tour Divide 2016 '
+favicon: null
+layout_spectrum: 0.245614
+typography_spectrum: 0.24495
+title: 'Documenting my journey to the Tour Divide in 2016 '
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#000000'
@@ -8,11 +24,6 @@ color:
     - '#ffffff'
   brandStrength: 0.5
   lightness: 0.21137044462375343
-  rhythmicContrast: 0.5891525219194591
   saturation: 0.6619251847732812
-cta: {}
-layout_spectrum: 0.245614
-name: 'Tour Divide 2016 '
-opengraph: {}
+  rhythmicContrast: 0.5891525219194591
 purpose: []
-typography_spectrum: 0.993731239810586
