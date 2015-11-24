@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://salsacycles.com'
   name: Salsacycles
-  favicon: 'http://salsacycles.com/favicon.ico?ver=2.0'
   domain: salsacycles.com
+  url: 'http://salsacycles.com'
+  favicon: 'http://salsacycles.com/favicon.ico?ver=2.0'
 keywords:
   - cutthroat
   - salsa
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://salsacycles.com/culture/introducing_cutthroat'
 title: Salsa Cycles
-datePublished: '2015-11-16T20:41:40.363Z'
-dateModified: '2015-11-16T20:23:20.813Z'
+datePublished: '2015-11-24T21:08:11.611Z'
+dateModified: '2015-11-24T21:08:06.250Z'
 sourcePath: _posts/2015-11-16-salsa-cycles.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
