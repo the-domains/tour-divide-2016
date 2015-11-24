@@ -4,21 +4,28 @@
         <description><![CDATA[Documenting my journey to the Tour Divide in 2016 ]]></description>
         <link>https://thegrid.ai/tour-divide-2016/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 Nov 2015 20:44:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2015 21:09:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tour-divide-2016/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Salsa Cycles]]></title>
+            <description><![CDATA[<article><h1>Salsa Cycles</h1><p>Both Salsa product manager Joe Meiser and product design engineer Sean Mailen have ridden the Tour Divide route from Banff, Alberta, Canada to Antelope Wells, New Mexico and that personal experience clearly impacted the Cutthroat's final design. "The experience of riding the Great Divide Mountain Bike Route will last a lifetime," said Mailen.</p><img src="http://salsacycles.com/files/bikes/_nav_thumbnail/BUCKSAW_Carbon_Bike-Carousel_1.jpg"></article>]]></description>
+            <link>http://salsacycles.com/culture/introducing_cutthroat</link>
+            <guid isPermaLink="false">64bbf084-73a5-4f0a-bfa3-8f630bdd0f94</guid>
+            <pubDate>Tue, 24 Nov 2015 21:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.adventurecycling.org/default/assets/Image/blog/Adventure_Cyclist_Extras/%20GearedUp.jpg">]]></description>
+            <link>https://thegrid.ai/tour-divide-2016/08fcfd19-4245-4b03-a871-056acaf44372/index.html</link>
+            <guid isPermaLink="false">08fcfd19-4245-4b03-a871-056acaf44372</guid>
+            <pubDate>Tue, 24 Nov 2015 21:04:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://salsacycles.com/files/blog/Cutthroat_X9_iso.jpg">]]></description>
             <link>https://thegrid.ai/tour-divide-2016/33610819-e6a6-47bc-af7b-392eb45d5bc5/index.html</link>
             <guid isPermaLink="false">33610819-e6a6-47bc-af7b-392eb45d5bc5</guid>
             <pubDate>Mon, 16 Nov 2015 20:42:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Salsa Cycles]]></title>
-            <description><![CDATA[<article><h1>Salsa Cycles</h1><p>Both Salsa product manager Joe Meiser and product design engineer Sean Mailen have ridden the Tour Divide route from Banff, Alberta, Canada to Antelope Wells, New Mexico and that personal experience clearly impacted the Cutthroat's final design. "The experience of riding the Great Divide Mountain Bike Route will last a lifetime," said Mailen.</p><img src="http://salsacycles.com/files/bikes/_nav_thumbnail/BUCKSAW_Carbon_Bike-Carousel_1.jpg"></article>]]></description>
-            <link>http://salsacycles.com/culture/introducing_cutthroat</link>
-            <guid isPermaLink="false">64bbf084-73a5-4f0a-bfa3-8f630bdd0f94</guid>
-            <pubDate>Mon, 16 Nov 2015 20:41:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/tour-divide-2016/2a01afb7-df5b-4473-8d8f-ce7c8901d7a3/index.html</link>
             <guid isPermaLink="false">2a01afb7-df5b-4473-8d8f-ce7c8901d7a3</guid>
             <pubDate>Mon, 16 Nov 2015 20:18:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tour Divide 2016 - begins ]]></title>
-            <description><![CDATA[<article><h1>Tour Divide 2016 - begins </h1><p>Beginning my journey ... again. </p></article>]]></description>
-            <link>https://thegrid.ai/tour-divide-2016/tour-divide-2016-begins/index.html</link>
-            <guid isPermaLink="false">128ce9b7-a384-45ae-9b4d-8abfe41bcd46</guid>
-            <pubDate>Mon, 02 Nov 2015 22:06:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
